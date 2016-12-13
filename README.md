@@ -1,4 +1,9 @@
 # aft
 Automated Flasher and Tester
 
-The tool has moved to https://github.com/igor-stoppa/DAFT
+The tool has become
+
+# daft
+Distributed Automated Flasher and Tester
+
+and moved to https://github.com/igor-stoppa/DAFT
